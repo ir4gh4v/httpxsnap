@@ -26,7 +26,7 @@ go install -v github.com/ir4gh4v/httpxsnap@latest
 Run the following command to see all available options:
 
 ```bash
-httpxsnap -h
+httpxsnap -i urls.txt -o output_folder -t 10 -rl 300
 ```
 
 ## Options
