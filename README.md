@@ -21,3 +21,17 @@ To install **httpxsnap**, use the following command:
 go install -v github.com/ir4gh4v/httpxsnap@latest
 ```
 
+# Usage
+
+Run the following command to see all available options:
+
+```bash
+httpxsnap -h
+```
+
+## Options
+- **`-i string`**: Input file containing URLs (default: `file.txt`).
+- **`-o string`**: Output folder (default: `output`).
+- **`-t int`**: Number of threads to use (default: `20`).
+- **`-rl int`**: Rate limit in milliseconds (default: `500`).
+
