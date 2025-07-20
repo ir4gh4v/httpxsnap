@@ -18,7 +18,7 @@ httpxsnap is a powerful tool designed for bug bounty hunters, pen-testers, and d
 To install **httpxsnap**, use the following command:
 
 ```bash
-go install -v github.com/4swolf/httpxsnap@latest
+go install -v github.com/ir4gh4v/httpxsnap@latest
 ```
 
 # Usage
